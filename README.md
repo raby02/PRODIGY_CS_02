@@ -37,7 +37,7 @@ This project is a simple image encryption tool using pixel manipulation techniqu
 ### Installation
 1. **Clone the repository**:
     ```bash
-    git clone [https://github.com/your-username/image-encryption-tool.git](https://github.com/raby02/PRODIGY_CS_02.git)
+    git clone [https://github.com/raby02/PRODIGY_CS_02.git]
     ```
 2. **Navigate to the project directory**:
     ```bash
