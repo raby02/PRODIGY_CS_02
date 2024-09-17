@@ -41,7 +41,7 @@ This project is a simple image encryption tool using pixel manipulation techniqu
     ```
 2. **Navigate to the project directory**:
     ```bash
-    cd image-encryption-tool
+    cd PRODIGY_CS_02
     ```
 
 ## Usage
